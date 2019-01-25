@@ -1,0 +1,6 @@
+options:
+  name:
+    type: string
+    default: "noob"
+    description: "A dummy configuration value for invoking the config-changed hook."
+

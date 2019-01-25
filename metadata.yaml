@@ -1,0 +1,12 @@
+name: leadership-flex
+summary: Raft leadership scaling tester.
+maintainer: Joseph Phillips <joe.phillips@canonical.com>
+description: |
+  Simple charm to test Raft-based leadership scaling.
+tags:
+  - ops
+  - metrics
+  - testing
+subordinate: false
+series:
+  - bionic
